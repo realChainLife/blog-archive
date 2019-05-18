@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Let's Decentralize The Web!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Welcome! If you managaed to find this page out of all the possible million others on the web congratulations. You're passionate about decentralizing the web. Just like me! Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
