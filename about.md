@@ -24,9 +24,8 @@ a [factory24 mentor](https://factory24.org/), and Decentralized Web Ambassador.
                                             importance="high" />
 
   <figcaption markdown="1">
-  On stage at [beyond tellerrand](http://2013.beyondtellerrand.com/).
-  [Photo](http://www.flickr.com/photos/stn1978/8899790026/) by
-  [Stefan Nitzsche](https://twitter.com/stn1978).
+  On stage at [Enpact Entrepreneurs Camp](http://enpact.org/).
+  Photo by [ON Photography](https://twitter.com/OtienoNyadimo).
   </figcaption>
 </figure>
 
