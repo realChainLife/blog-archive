@@ -72,7 +72,7 @@ The full code for my CSS powered ribbon is simply:
     h2{
     	position:relative;
     	color:#fff;
-    	background:#f43059;
+    	background:#3d2843;
     	font-size:1.5em;
     	float:left;
     	clear:both;

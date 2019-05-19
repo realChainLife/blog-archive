@@ -119,7 +119,7 @@ summary here is that using something like:
 
 ```
 .btn {
-  background: #f43059;
+  background: #3d2843;
 }
 ```
 
@@ -127,7 +127,7 @@ summary here is that using something like:
 
 ```
 .btn {
-  background-color: #f43059;
+  background-color: #3d2843;
 }
 ```
 
