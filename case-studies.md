@@ -91,7 +91,7 @@ permalink: /case-studies/
     </li>
 
     <li class="feature-list__item">
-        <a href="css-wizardry/" class="feature-list__link" style="background-color: #f43059;">
+        <a href="css-wizardry/" class="feature-list__link" style="background-color: #3d2843;">
             <h2 class="feature-list__title">
                 CSS Wizardry
                 <span class="feature-list__sub">Development, Product</span>
