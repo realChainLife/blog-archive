@@ -2,19 +2,17 @@
 layout: page
 title: About Me
 page-class: page--about
-meta: "About Harry Roberts’ work, abilities, and services"
-permalink: /blog/about/
+meta: "About work, interests, and services"
+permalink: /about/
 lux: About
 ---
 
-Hi there, I’m Harry. I am an independent **Consultant Web Performance Engineer**
-from Leeds, UK. I help some of the world’s largest and most respected
-organisations deliver faster and more reliable experiences to their customers.
-I am an invited [Google Developer
-Expert](https://developers.google.com/experts/people/harry-roberts), an
-[award-winning developer](https://thenetawards.com/previous-winners/), an
-[international speaker](/speaking/), and Performance Ambassador for [SHIFT
-Commerce](https://www.shiftcommerce.com/).
+Hi there, I’m Sonia, aka realChainʕ •ᴥ•ʔ. I am an independent 
+**Bot & Protocol Developer** from Africa. I help some of the 
+world’s fastest growing startup companies deliver faster and 
+more reliable experiences to their customers.  I am a Web3 
+enthusiast, [IPFS Organizer](https://github.com/protoschool/nairobi), 
+a [factory24 mentor](https://factory24.org/), and Decentralized Web Ambassador. 
 
 <figure>
   <img src="/img/content/me-750.jpg" alt="" sizes="(max-width: 1023px) 100vw,
