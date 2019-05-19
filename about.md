@@ -3,7 +3,7 @@ layout: page
 title: About Me
 page-class: page--about
 meta: "About my work, interests, and services"
-permalink: 
+permalink: /blog/about/
 lux: About
 ---
 
