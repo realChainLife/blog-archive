@@ -2,7 +2,7 @@
 title: Blog
 email: realchainlife@protonmail.com
 description: " | RealChain🐮ʕ •ᴥ•ʔ"
-baseurl: ""
+baseurl: "/blog"
 url: ""
 future: true
 
