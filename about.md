@@ -3,7 +3,7 @@ layout: page
 title: About Me
 page-class: page--about
 meta: "About my work, interests, and services"
-permalink: https://realchainlife.github.io/blog/about
+permalink: /about/
 lux: About
 ---
 
