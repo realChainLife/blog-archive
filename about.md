@@ -3,7 +3,7 @@ layout: page
 title: About Me
 page-class: page--about
 meta: "About Harry Roberts’ work, abilities, and services"
-permalink: /about/
+permalink: /blog/about/
 lux: About
 ---
 
