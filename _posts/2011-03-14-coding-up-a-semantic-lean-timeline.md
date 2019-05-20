@@ -95,7 +95,7 @@ The really interesting bits are the odd/even styling, the ‘spine’, the dot a
 The spine running down the timeline is actually an image and is applied as a background using the fantastic [Dummy Image](http://dummyimage.com/):
 
 <pre><code>#timeline{
-    <mark>background:url(http://dummyimage.com/1x1/f43059/f43059.gif) top center repeat-y;</mark>
+    <mark>background:url(http://dummyimage.com/1x1/3d2843/3d2843.gif) top center repeat-y;</mark>
     width:820px;
     padding:50px 0;
     margin:0 auto 50px auto;
@@ -114,7 +114,7 @@ The arrow and dot, as mentioned above, are actually pseudo-elements. Their CSS i
     width:10px;
     height:10px;
     display:block;
-    background:#f43059;
+    background:#3d2843;
     position:absolute;
     top:0;
     left:50%;
@@ -128,7 +128,7 @@ The arrow and dot, as mentioned above, are actually pseudo-elements. Their CSS i
     margin-left:-7px;
     background:none;
     border:7px solid transparent;
-    border-top-color:#f43059;
+    border-top-color:#3d2843;
     width:0;
     height:0;
     top:auto;
@@ -152,12 +152,12 @@ The branches that span between the list items and the spine are, again, pseudo e
       content:" ";
       width:70px;
       height:1px;
-      background:#f43059;
+      background:#3d2843;
       position:absolute;
       left:100%;
       top:50%;
-      background:-moz-linear-gradient(0,#d8d566,#f43059);
-      background:-webkit-gradient(linear,left top,right top,from(#d8d566),to(#f43059));
+      background:-moz-linear-gradient(0,#d8d566,#3d2843);
+      background:-webkit-gradient(linear,left top,right top,from(#d8d566),to(#3d2843));
     }
 
 So by now we’ve added start and end points, a spine and branches to our timeline with no extra markup whatsoever. Lean!
@@ -171,8 +171,8 @@ The odd/even styling of each list item is achieved, as you might expect, using `
     text-align:left;
 }
 #timeline li:nth-of-type(even):after{ <span class="code-comment">/* Move branches */</span>
-    background:-moz-linear-gradient(0,#f43059,#d8d566);
-    background:-webkit-gradient(linear,left top,right top,from(#f43059),to(#d8d566));
+    background:-moz-linear-gradient(0,#3d2843,#d8d566);
+    background:-webkit-gradient(linear,left top,right top,from(#3d2843),to(#d8d566));
     left:auto;
     right:100%;
 }</code></pre>
